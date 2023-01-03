@@ -1,3 +1,5 @@
-# README #
+# Learning Git
 
-Practice repository for learning Git workflow
+important steps for git workflow:
+
+
