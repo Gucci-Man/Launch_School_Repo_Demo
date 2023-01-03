@@ -1,5 +1,6 @@
 # Learning Git
 
-important steps for git workflow:
+## Table of Contents
 
+- example.txt
 
