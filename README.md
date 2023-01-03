@@ -1,6 +1,3 @@
 # Learning Git
 
-## Table of Contents
-
-- example.txt
-
+Hello world, I love using git!
