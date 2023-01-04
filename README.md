@@ -1,3 +1,3 @@
 # Learning Git
 
-Hello world, I love using git!
+Hello world, this is practice for git
